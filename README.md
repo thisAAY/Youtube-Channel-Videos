@@ -28,4 +28,4 @@ buildTypes {
 
 # ScreenShots
 
-![alt text](screenshots\screenshot.png "Screenshot1")
+![alt text](https://github.com/thisAAY/Youtube-Channel-Videos/blob/master/screenshots/screenshot.png?raw=true "Screenshot1")
