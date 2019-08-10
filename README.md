@@ -2,11 +2,11 @@
 Android project to list all youtube channel videos
 
 # Technology
-kotlin
-Dagger2
-rxJava
-Androidx
-retrofit
+kotlin</br>
+Dagger2</br>
+rxJava</br>
+Androidx</br>
+retrofit</br>
 
 # Configuration
 To configure the project you need first to add your API_KEY and CHANNEL_ID in BuildConfig throw app gradle file 
@@ -28,4 +28,5 @@ buildTypes {
 
 # ScreenShots
 
-![alt text](https://github.com/thisAAY/Youtube-Channel-Videos/blob/master/screenshots/screenshot.png?raw=true "Screenshot1")
+<img src="https://github.com/thisAAY/Youtube-Channel-Videos/blob/master/screenshots/screenshot.png?raw=true=360x640" alt="screenshot1" width="360" height="640"/>
+
