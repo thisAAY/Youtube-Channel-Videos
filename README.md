@@ -3,10 +3,11 @@ Android project to list all youtube channel videos
 
 # Technology
 kotlin</br>
+Mvvm</br>
 Dagger2</br>
 rxJava</br>
 Androidx</br>
-retrofit</br>
+Retrofit</br>
 
 # Configuration
 To configure the project you need first to add your API_KEY and CHANNEL_ID in BuildConfig throw app gradle file 
